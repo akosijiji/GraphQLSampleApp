@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GraphQLSampleApp</string>
+    <string name="posted_by">Posted by: %1$s</string>
+</resources>
